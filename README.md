@@ -1,2 +1,7 @@
-Simulation of Token Passing Protocol based
-Local-Area Network
+Simulation of Token Passing Protocol (Taking Turn Protocol) based
+Local-Area Network 
+
+desci wts tokpasprocol
+
+for phase1
+for phase2
